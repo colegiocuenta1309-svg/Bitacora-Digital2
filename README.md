@@ -1,2 +1,4 @@
-# Bitacora-Digital2
-.
+# Bitacora-Digital
+
+1- esquema 
+Quiero queque \[T]/
