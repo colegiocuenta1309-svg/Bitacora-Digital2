@@ -1,4 +1,4 @@
 # Bitacora-Digital
 
-1- esquema 
-Quiero queque \[T]/
+1- Esquema
+2- Formulario de registro
