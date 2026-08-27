@@ -14,13 +14,13 @@ se satura y queda fuera de línea.
 
 <!-- ¿Cómo se detectó que el servidor había caído? ¿Qué señal o dato lo evidenció? -->
 
-Verificando puertos
+Verificando detenidamente los puertos del servidor para comprobar las anomalias
 
 ## 2. Contención
 
 <!-- ¿Qué acción se tomó de inmediato para limitar el impacto? -->
 
-Una medida de Seguridad
+Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
 
 
 ## 3. Recuperación
@@ -38,4 +38,4 @@ Una medida de Seguridad
      hubiera anticipado este resultado, en relación con el criterio de
      performance del Anexo 1 (listado de citas en menos de 3 segundos)? -->
 
-Un respaldo y monitoreo
+Un respaldo y monitoreo de todo el sistema en caso de un fallo grave
