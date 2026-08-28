@@ -20,7 +20,7 @@ Verificando detenidamente los puertos del servidor para comprobar las anomalias
 
 <!-- ¿Qué acción se tomó de inmediato para limitar el impacto? -->
 
-
+Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
 
 ## 3. Recuperación
 
