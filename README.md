@@ -14,13 +14,13 @@ TrámiteFácil+ se satura y queda fuera de línea.
 
 <!-- ¿Cómo se detectó que el servidor había caído? ¿Qué señal o dato lo evidenció? -->
 
-Verificando detenidamente los puertos del servidor para comprobar las anomalias
+R/ Verificando detenidamente los puertos del servidor para comprobar las anomalias
 
 ## 2. Contención
 
 <!-- ¿Qué acción se tomó de inmediato para limitar el impacto? -->
 
-Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
+R/ Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
 
 ## 3. Recuperación
 
@@ -30,7 +30,7 @@ Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
 
 
 
-**Commit de recuperación:** (git revert abc123)
+**Commit de recuperación:** ( R/ git revert abc123)
 
 ## 4. Aprendizaje / mejora
 
@@ -38,3 +38,4 @@ Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
      hubiera anticipado este resultado, en relación con el criterio de
      performance del Anexo 1 (listado de trámites en menos de 4 segundos)? -->
 
+R/ Un respaldo y monitoreo de todo el sistema en caso de un fallo grave
