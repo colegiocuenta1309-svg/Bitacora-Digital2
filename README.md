@@ -30,7 +30,7 @@ Una medida de Seguridad que pueda restaurar el sistema sin perdida de datos
 
 
 
-**Commit de recuperación:** (pegue aquí el hash o el mensaje del commit)
+**Commit de recuperación:** (git revert abc123)
 
 ## 4. Aprendizaje / mejora
 
