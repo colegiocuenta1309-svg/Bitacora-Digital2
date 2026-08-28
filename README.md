@@ -14,7 +14,7 @@ TrámiteFácil+ se satura y queda fuera de línea.
 
 <!-- ¿Cómo se detectó que el servidor había caído? ¿Qué señal o dato lo evidenció? -->
 
-
+Verificando detenidamente los puertos del servidor para comprobar las anomalias
 
 ## 2. Contención
 
